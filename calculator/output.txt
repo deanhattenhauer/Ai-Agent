@@ -1,0 +1,2 @@
+Word Count: 6
+Average Word Length: 3.67
